@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Accounts Service"
   contactDetails:
     name: Tasleem
-    email: tasleem090@gmail.com
+    email: "{cipher}4a6d265440969457a6b573edea9ff4b38177180a1cf104a45d97bc38fbf9da0d540a58ff792ef95b6de75fd9155a14c7"
   onCallSupport:
     -7007678978
     -7007678979
