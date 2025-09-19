@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards Service prod"
+  contactDetails:
+    name: Azal
+    email: azal@gmail.com
+  onCallSupport:
+    -7007678999
+    -7007678990

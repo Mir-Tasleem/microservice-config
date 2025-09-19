@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans Service Production"
+  contactDetails:
+    name: sahil
+    email: sahil@gmail.com
+  onCallSupport:
+    -7007699978
+    -7007670079

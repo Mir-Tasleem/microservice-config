@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to loans Service"
+  contactDetails:
+    name: Tasleem
+    email: tasleem090@gmail.com
+  onCallSupport:
+    -7007678978
+    -7007678979
