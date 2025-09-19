@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to Accounts Service Production"
   contactDetails:
     name: sahil
-    email: sahil@gmail.com
+    email: xyz@gmail.com
   onCallSupport:
     -7007699978
+
     -7007670079
